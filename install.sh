@@ -102,7 +102,7 @@ apt update -y && apt upgrade -y
 # =========================
 echo ""
 echo "📦 Installing dependencies..."
-apt install -y python ffmpeg curl
+apt install -y python ffmpeg curl bc
 
 # =========================
 # INSTALL YT-DLP
