@@ -175,7 +175,7 @@ chmod +x audio video yt loop matrix
 echo "✅ Permission berhasil di-set"
 
 # version awal
-echo "1.0" > "$WORKDIR/.version"
+curl -fsSL "$REPO/version.txt" > "$WORKDIR/.version"
 
 # =========================
 # SET ALIAS
