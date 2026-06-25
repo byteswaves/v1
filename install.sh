@@ -76,8 +76,35 @@ TODAY=$(date +%Y-%m-%d)
 [ "$STATUS" != "active" ] && echo "🚫 License revoked" && exit 1
 
 if [[ "$TODAY" > "$EXPIRY" ]]; then
+
+    echo ""
+    echo "===================================="
+    echo "      LICENSE EXPIRED"
+    echo "===================================="
+    echo ""
     echo "⛔ License expired ($EXPIRY)"
+    echo ""
+    echo "1. Hapus license"
+    echo "2. Keluar"
+    echo ""
+
+    read -p "Pilih [1-2]: " MENU
+
+    case "$MENU" in
+
+        1)
+            rm -f "$LICENSE_FILE"
+            echo "✅ License berhasil dihapus."
+            ;;
+        2)
+            ;;
+        *)
+            echo "❌ Pilihan tidak valid."
+            ;;
+    esac
+
     exit 1
+
 fi
 
 echo "✅ License valid"
