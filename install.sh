@@ -153,24 +153,20 @@ cd "$WORKDIR" || exit
 echo ""
 echo "⬇️ Downloading MediaMatrix tools..."
 
-curl -fLo audio "$REPO/audio" || { echo "❌ Gagal download audio"; exit 1; }
-curl -fLo video "$REPO/video" || { echo "❌ Gagal download video"; exit 1; }
-curl -fLo yt "$REPO/yt" || { echo "❌ Gagal download yt-dlp"; exit 1; }
-curl -fLo loop "$REPO/loop" || { echo "❌ Gagal download loop"; exit 1; }
 curl -fLo matrix "$REPO/matrix" || { echo "❌ Gagal download launcher"; exit 1; }
 
 # =========================
 # FIX LINE ENDING
 # =========================
-sed -i 's/\r$//' audio video yt loop matrix
+sed -i 's/\r$//' matrix
 
 # cek apakah download berhasil
-for f in audio video yt loop matrix; do
+for f in matrix; do
     [ ! -f "$f" ] && echo "❌ Gagal download $f" && exit 1
 done
 
 # kasih permission execute
-chmod +x audio video yt loop matrix
+chmod +x matrix
 
 echo "✅ Permission berhasil di-set"
 
