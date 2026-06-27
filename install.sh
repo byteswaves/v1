@@ -1,3 +1,205 @@
-z="
-";FFz='    ';eHz='|| {';xBz='n';DBz='❌ Re';yCz='e tr';xEz='d" &';sGz='l 2>';Pz='="aH';lDz='NT+1';DIz='&& e';GJz='MPLE';UDz='=$(e';CIz='$f" ';RIz='O/ve';pIz='ix='\''';ADz='ue; ';vFz='rage';MDz=' kon';fHz='o "❌';JDz='❌ Ti';FJz='N CO';xIz='ce "';iHz='ownl';lIz=''\'' "$';EJz='ATIO';PFz=' Hap';tz='>/de';kBz=' "🔐';UBz='URL=';Az='clea';oBz='d"';EFz=' "  ';Jz='atri';rCz='.."';Vz='VidX';QHz='t';CGz='ermi';dHz='ix" ';VIz='IR/.';AHz='t-dl';vDz='l 3x';tBz='|| [';vz='ll)';qIz='/mat';pGz='lp >';qCz='nse.';mBz=' Req';kIz='x=/d';Mz='ler"';sEz=' ech';iDz='lid"';yBz='read';rDz='Y" ]';GDz='")';pEz='acti';gCz='Lice';hGz='mpeg';lHz='cher';HFz='RED"';ABz=' ] &';cFz='ENU"';XFz='1-2]';TEz='" | ';eEz=' exp';yDz='."';kDz='(COU';LDz='bisa';kz='rint';AEz='y la';ZBz='json';YHz='curl';uFz='/sto';CFz=' "$E';PDz='rver';wz='[ -z';OHz='KDIR';LFz='($EX';iFz=' dih';aHz='o ma';xCz='whil';nBz='uire';OEz='done';RCz='E"';oz='_REP';OFz=' "1.';sDz='; th';MJz=' "👉';UIz='t" >';kHz='laun';vGz=' "⬇️';GBz='e ga';mCz=' Val';uBz='s "$';DDz='url ';xFz=' Set';cIz='BASH';fz='lyZX';NBz='"$HO';GGz='ux-s';eCz='hen';JHz=' "$W';nHz='xit ';jIz='as m';NIz='et"';iBz='ense';aEz=' -f4';gHz=' Gag';gFz='berh';Wz='Nlcm';CCz='ukka';uGz='then';MEz='brea';fEz='iry ';mz='s'\'' "';ez='IvbX';NFz=')"';qz=' bas';LJz='all!';dEz='RY=$';FCz='e ke';SJz='inta';qEz='ve" ';XDz='TA" ';EGz='n...';AJz='HRC"';iIz='/ali';hFz='asil';ECz='cens';TIz='n.tx';bGz='cies';YGz='tall';rIz='rix'\''';rBz='f "$';OJz='anka';AGz='tora';jBz=' ""';XBz='icen';IHz='r -p';pCz='lice';QFz='us l';HGz='etup';Sz='9yYX';rHz='s/\r';WHz=' too';pz='O" |';jHz='oad ';hEz='Y=$(';eGz='-y p';EEz='E"  ';hCz='nse ';uEz='� Li';WEz='tus ';XIz='ion"';PHz='" ||';sFz='d "$';cCz='EY" ';PJz='n de';fDz='Y_DA';NEz='k';QCz='_FIL';FBz='ecod';lFz='2)';uCz='Y=3';bBz='FILE';WGz=' -y';YCz='fi';YBz='ses.';nFz='Pili';tCz='RETR';WDz='"$DA';lGz=' com';aDz='\"$U';mHz='"; e';MCz='KEY"';tFz='HOME';gz='BvL2';wFz=' "📂';OBz='ME/M';eIz='$HOM';UEz='grep';RHz=' Dow';az='9tL2';LEz='inue';oHz='1; }';sCz='MAX_';eFz='1)';MIz='di-s';Zz='QuY2';AFz='it 1';wGz='lp..';Hz='� Me';pHz='sed ';pBz='if [';rFz='vali';xGz='pip ';bHz='EPO/';BEz='gi: ';VDz='cho ';gEz='TODA';cHz='matr';DCz='n li';UFz='uar"';mDz='))';vBz='" ];';nEz='US" ';REz='(ech';JBz='exit';bCz='ER_K';sHz='$//'\''';VGz='rade';BJz=' " ✅';ZGz='depe';LIz='sil ';HEz='BAHK';HJz='TE"';aFz='case';HBz='gal"';cEz='EXPI';UJz='rix"';kFz=';;';xHz='rix;';TCz='USER';yIz='$BAS';BGz='ge p';jDz='T=$(';EIz='1';BIz='-f "';hIz='c"';JFz='expi';QJz='ngan';dGz='all ';XCz='E")';RGz='te -';ZDz='k "/';rz='e64 ';gDz='tida';SEz='o "$';wCz='T=0';DHz='lrea';nIz=' "al';iGz=' cur';OIz=' -fs';WFz='ih [';Lz='stal';nz='$ENC';CJz=' INS';tDz='en';Xz='Nvbn';jCz='ng!"';SBz='LICE';TFz=' Kel';HDz=' "$D';pDz='" -g';SHz='nloa';XHz='ls..';ZIz='ting';qGz='/dev';xDz='luar';BBz='& ec';oCz='ing ';Fz='=="';WIz='vers';CHz='lp a';lz='f '\''%';QIz='$REP';oEz='!= "';SIz='rsio';cz='hyZW';NDz='ek k';Rz='M6Ly';aGz='nden';cDz='"/,/';MGz='g sy';MBz='DIR=';Uz='l0aH';GIz='d +x';TDz='KEY_';GCz='y: "';THz='ding';fCz=' "❌ ';QEz='US=$';qBz=' ! -';aBz='"';uHz='rix';KIz='erha';yHz=' do';nDz=' "$C';hDz='k va';KEz='cont';cGz='inst';EBz='po d';GHz='lled';HHz='mkdi';uIz='ASHR';jz='=$(p';EDz='-s "';NGz='stem';oGz='yt-d';gGz='n ff';oDz='OUNT';ODz='e se';ZHz=' -fL';dIz='RC="';RJz=' per';fBz='iama';CBz='ho "';JCz='Y';WCz='at "';ZCz=' -z ';uz='v/nu';BHz='p';RFz='se"';vCz='COUN';Kz='x In';NHz='$WOR';PEz='STAT';iz='4="';JIz='on b';dz='FrZX';DEz='EY';YEz='t -d';TJz='h:"';IIz='issi';FDz='_URL';jFz='apus';fGz='ytho';IDz='ATA"';tIz=' "$B';qDz='e "$';LGz='atin';eDz='"$KE';BFz='Y" >';mEz='[ "$';PCz='ENSE';UHz=' Med';yz='EPO"';YIz=' "⚙️';lBz=' Lic';vEz='e re';CDz='DATA';yEz='& ex';Cz='echo';IFz=' "⛔ ';qHz='-i '\''';MFz='PIRY';ZEz=' '\''"'\''';KJz='l di';RDz=' exi';FIz='chmo';eBz='.med';fFz=' "✅ ';hz='1haW';UGz=' upg';HIz='Perm';PIz='SL "';Gz=' " �';lCz=' "🔍';nCz='idat';tEz='o "�';OCz='$LIC';Tz='cuZ2';QBz='Matr';Iz='diaM';UCz='_KEY';wEz='voke';cBz='="$H';wHz='f in';DFz='XPIR';vIz='C"';tGz='&1; ';JEz='NI';dBz='OME/';IEz='AN I';dCz=']; t';NCz=' > "';wBz=' the';KFz='red ';TBz='NSE_';EHz='dy i';IBz=' && ';lEz='%d)';VCz='=$(c';PBz='edia';VHz='iaMa';QDz='" &&';KBz=' 1';WBz='PO/l';mIz='RC"';MHz='cd "';HCz=' USE';aIz=' ali';sIz='" >>';DJz='TALL';IJz=' ber';dDz='}/")';Qz='R0cH';wDz='. Ke';aCz='"$US';yGz='-U y';VBz='"$RE';RBz='ix"';tHz=' mat';PGz='apt ';SFz=' "2.';bFz=' "$M';SGz='y &&';uDz='Gaga';KGz=' Upd';hHz='al d';BCz='"Mas';QGz='upda';gBz='trix';bIz='as..';mGz='mand';GEz=' TAM';GFz='NSE ';wIz='sour';oFz='han ';YDz='| aw';bz='UycG';dFz=' in';ACz=' -p ';KDz='dak ';CEz='" US';SCz='else';LCz='SER_';VFz='"Pil';NJz=' Jal';LBz='WORK';kEz='-%m-';Ez='====';JJz='hasi';kGz='if !';jEz=' +%Y';fIz='E/.b';FHz='nsta';gIz='ashr';oIz='ias ';bEz=')';hBz='_lic';LHz='IR"';ZFz='MENU';Nz='ENC_';YFz=': " ';yFz='up s';bDz='KEY\';pFz='lid.';sz='-d 2';mFz='*)';Bz='r';Yz='Rlbn';KCz=' "$U';Oz='REPO';XGz=' Ins';kCz='rm -';AIz='[ ! ';jGz='l bc';FGz='term';TGz=' apt';iEz='date';JGz=' "📦';ICz='R_KE';VEz=' sta';nGz=' -v ';KHz='ORKD';sBz='" ] ';qFz='esac';DGz='ssio';vHz='for ';iCz='koso';rEz='] &&';BDz='do';IGz='-sto';Dz=' "==';XEz='| cu';rGz='/nul';xz=' "$R';FEz=' # ←';SDz='t 1';OGz='..."';
-eval "$Az$Bz$z$Cz$Dz$Ez$Ez$Ez$Ez$Ez$Ez$Ez$Ez$Fz$z$Cz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$z$Cz$Dz$Ez$Ez$Ez$Ez$Ez$Ez$Ez$Ez$Fz$z$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$z$Oz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$z$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$z$LBz$MBz$NBz$OBz$PBz$QBz$RBz$z$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$z$SBz$TBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$aBz$z$Cz$jBz$z$Cz$kBz$lBz$iBz$mBz$nBz$oBz$z$pBz$qBz$rBz$SBz$TBz$bBz$sBz$tBz$qBz$uBz$SBz$TBz$bBz$vBz$wBz$xBz$z$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$z$Cz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$z$SCz$z$TCz$UCz$VCz$WCz$OCz$PCz$QCz$XCz$z$YCz$z$pBz$ZCz$aCz$bCz$cCz$dCz$eCz$z$Cz$fCz$gCz$hCz$iCz$jCz$z$kCz$rBz$SBz$TBz$bBz$aBz$z$JBz$KBz$z$YCz$z$Cz$lCz$mCz$nCz$oCz$pCz$qCz$rCz$z$sCz$tCz$uCz$z$vCz$wCz$z$xCz$yCz$ADz$BDz$z$CDz$VCz$DDz$EDz$OCz$PCz$FDz$GDz$z$wz$HDz$IDz$ABz$BBz$CBz$JDz$KDz$LDz$MDz$NDz$ODz$PDz$QDz$RDz$SDz$z$TDz$CDz$UDz$VDz$WDz$XDz$YDz$ZDz$aDz$LCz$bDz$cDz$dDz$z$pBz$ZCz$eDz$fDz$XDz$dCz$eCz$z$Cz$fCz$gCz$hCz$gDz$hDz$iDz$z$kCz$rBz$SBz$TBz$bBz$aBz$z$vCz$jDz$kDz$lDz$mDz$z$pBz$nDz$oDz$pDz$qDz$sCz$tCz$rDz$sDz$tDz$z$Cz$fCz$uDz$vDz$wDz$xDz$yDz$z$JBz$KBz$z$YCz$z$yBz$ACz$BCz$CCz$DCz$ECz$FCz$AEz$BEz$CEz$bCz$DEz$z$Cz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$EEz$FEz$GEz$HEz$IEz$JEz$z$KEz$LEz$z$YCz$z$MEz$NEz$z$OEz$z$PEz$QEz$REz$SEz$TDz$CDz$TEz$UEz$VEz$WEz$XEz$YEz$ZEz$aEz$bEz$z$cEz$dEz$REz$SEz$TDz$CDz$TEz$UEz$eEz$fEz$XEz$YEz$ZEz$aEz$bEz$z$gEz$hEz$iEz$jEz$kEz$lEz$z$mEz$PEz$nEz$oEz$pEz$qEz$rEz$sEz$tEz$uEz$ECz$vEz$wEz$xEz$yEz$AFz$z$pBz$mEz$gEz$BFz$CFz$DFz$rDz$dCz$eCz$z$Cz$jBz$z$Cz$Dz$Ez$Ez$Ez$Ez$Ez$Ez$Ez$Ez$Fz$z$Cz$EFz$FFz$SBz$GFz$cEz$HFz$z$Cz$Dz$Ez$Ez$Ez$Ez$Ez$Ez$Ez$Ez$Fz$z$Cz$jBz$z$Cz$IFz$gCz$hCz$JFz$KFz$LFz$MFz$NFz$z$Cz$jBz$z$Cz$OFz$PFz$QFz$XBz$RFz$z$Cz$SFz$TFz$UFz$z$Cz$jBz$z$yBz$ACz$VFz$WFz$XFz$YFz$ZFz$z$aFz$bFz$cFz$dFz$z$eFz$z$kCz$rBz$SBz$TBz$bBz$aBz$z$Cz$fFz$gCz$hCz$gFz$hFz$iFz$jFz$yDz$z$kFz$z$lFz$z$kFz$z$mFz$z$Cz$fCz$nFz$oFz$gDz$hDz$pFz$aBz$z$kFz$z$qFz$z$JBz$KBz$z$YCz$z$Cz$fFz$gCz$hCz$rFz$oBz$z$pBz$qBz$sFz$tFz$uFz$vFz$vBz$wBz$xBz$z$Cz$wFz$xFz$yFz$AGz$BGz$CGz$DGz$EGz$aBz$z$FGz$GGz$HGz$IGz$vFz$z$YCz$z$Cz$jBz$z$Cz$JGz$KGz$LGz$MGz$NGz$OGz$z$PGz$QGz$RGz$SGz$TGz$UGz$VGz$WGz$z$Cz$jBz$z$Cz$JGz$XGz$YGz$oCz$ZGz$aGz$bGz$OGz$z$PGz$cGz$dGz$eGz$fGz$gGz$hGz$iGz$jGz$z$kGz$lGz$mGz$nGz$oGz$pGz$qGz$rGz$sGz$tGz$uGz$z$Cz$vGz$XGz$YGz$oCz$oGz$wGz$yDz$z$xGz$cGz$dGz$yGz$AHz$BHz$z$SCz$z$Cz$fFz$oGz$CHz$DHz$EHz$FHz$GHz$aBz$z$YCz$z$HHz$IHz$JHz$KHz$LHz$z$MHz$NHz$OHz$PHz$RDz$QHz$z$Cz$jBz$z$Cz$vGz$RHz$SHz$THz$UHz$VHz$gBz$WHz$XHz$yDz$z$YHz$ZHz$aHz$gBz$xz$bHz$cHz$dHz$eHz$sEz$fHz$gHz$hHz$iHz$jHz$kHz$lHz$mHz$nHz$oHz$z$pHz$qHz$rHz$sHz$tHz$uHz$z$vHz$wHz$tHz$xHz$yHz$z$AIz$BIz$CIz$rEz$sEz$fHz$gHz$hHz$iHz$jHz$CIz$DIz$nHz$EIz$z$OEz$z$FIz$GIz$tHz$uHz$z$Cz$fFz$HIz$IIz$JIz$KIz$LIz$MIz$NIz$z$YHz$OIz$PIz$QIz$RIz$SIz$TIz$UIz$JHz$KHz$VIz$WIz$XIz$z$Cz$jBz$z$Cz$YIz$xFz$ZIz$aIz$bIz$yDz$z$cIz$dIz$eIz$fIz$gIz$hIz$z$pHz$qHz$iIz$jIz$Jz$kIz$lIz$cIz$mIz$z$Cz$nIz$oIz$cHz$pIz$NHz$OHz$qIz$rIz$sIz$tIz$uIz$vIz$z$wIz$xIz$yIz$AJz$z$Az$Bz$z$Cz$Dz$Ez$Ez$Ez$Ez$Ez$Ez$Ez$Ez$Fz$z$Cz$BJz$CJz$DJz$EJz$FJz$GJz$HJz$z$Cz$Dz$Ez$Ez$Ez$Ez$Ez$Ez$Ez$Ez$Fz$z$Cz$jBz$z$Cz$JGz$UHz$VHz$gBz$IJz$JJz$KJz$cGz$LJz$aBz$z$Cz$jBz$z$Cz$MJz$NJz$OJz$PJz$QJz$RJz$SJz$TJz$z$Cz$jBz$z$Cz$EFz$tHz$UJz$z$Cz$jBz$z$Cz$Dz$Ez$Ez$Ez$Ez$Ez$Ez$Ez$Ez$Fz"
+#!/data/data/com.termux/files/usr/bin/bash
+
+clear
+echo "===================================="
+echo " 🚀 MediaMatrix Installer"
+echo "===================================="
+
+# =========================
+# CONFIG
+# =========================
+ENC_REPO="aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2UycGhyZWFrZXIvbXlyZXBvL21haW4="
+REPO=$(printf '%s' "$ENC_REPO" | base64 -d 2>/dev/null)
+[ -z "$REPO" ] && echo "❌ Repo decode gagal" && exit 1
+
+WORKDIR="$HOME/MediaMatrix"
+LICENSE_URL="$REPO/licenses.json"
+LICENSE_FILE="$HOME/.mediamatrix_license"
+
+# =========================
+# LICENSE CHECK
+# =========================
+echo ""
+echo "🔐 License Required"
+
+if [ ! -f "$LICENSE_FILE" ] || [ ! -s "$LICENSE_FILE" ]; then
+    read -p "Masukkan license key: " USER_KEY
+    echo "$USER_KEY" > "$LICENSE_FILE"
+else
+    USER_KEY=$(cat "$LICENSE_FILE")
+fi
+
+# validasi kosong
+if [ -z "$USER_KEY" ]; then
+    echo "❌ License kosong!"
+    rm -f "$LICENSE_FILE"
+    exit 1
+fi
+
+echo "🔍 Validating license..."
+
+MAX_RETRY=3
+COUNT=0
+
+while true; do
+    DATA=$(curl -s "$LICENSE_URL")
+
+    [ -z "$DATA" ] && echo "❌ Tidak bisa konek ke server" && exit 1
+
+    KEY_DATA=$(echo "$DATA" | awk "/\"$USER_KEY\"/,/}/")
+
+    if [ -z "$KEY_DATA" ]; then
+    echo "❌ License tidak valid"
+    rm -f "$LICENSE_FILE"
+    COUNT=$((COUNT+1))
+
+    if [ "$COUNT" -ge "$MAX_RETRY" ]; then
+        echo "❌ Gagal 3x. Keluar."
+        exit 1
+    fi
+
+    read -p "Masukkan license key lagi: " USER_KEY
+
+    echo "$USER_KEY" > "$LICENSE_FILE"   # ← TAMBAHKAN INI
+
+    continue
+fi
+
+    break
+done
+
+STATUS=$(echo "$KEY_DATA" | grep status | cut -d '"' -f4)
+EXPIRY=$(echo "$KEY_DATA" | grep expiry | cut -d '"' -f4)
+
+TODAY=$(date +%Y-%m-%d)
+
+[ "$STATUS" != "active" ] && echo "🚫 License revoked" && exit 1
+
+if [[ "$TODAY" > "$EXPIRY" ]]; then
+
+    echo ""
+    echo "===================================="
+    echo "      LICENSE EXPIRED"
+    echo "===================================="
+    echo ""
+    echo "⛔ License expired ($EXPIRY)"
+    echo ""
+    echo "1. Hapus license"
+    echo "2. Keluar"
+    echo ""
+
+    read -p "Pilih [1-2]: " MENU
+
+    case "$MENU" in
+
+        1)
+            rm -f "$LICENSE_FILE"
+            echo "✅ License berhasil dihapus."
+            ;;
+        2)
+            ;;
+        *)
+            echo "❌ Pilihan tidak valid."
+            ;;
+    esac
+
+    exit 1
+
+fi
+
+echo "✅ License valid"
+
+# =========================
+# STORAGE PERMISSION
+# =========================
+if [ ! -d "$HOME/storage" ]; then
+    echo "📂 Setup storage permission..."
+    termux-setup-storage
+fi
+
+# =========================
+# UPDATE SYSTEM
+# =========================
+echo ""
+echo "📦 Updating system..."
+apt update -y && apt upgrade -y
+
+# =========================
+# INSTALL DEPENDENCIES
+# =========================
+echo ""
+echo "📦 Installing dependencies..."
+apt install -y python ffmpeg curl bc shc clang
+
+# =========================
+# INSTALL YT-DLP
+# =========================
+if ! command -v yt-dlp >/dev/null 2>&1; then
+    echo "⬇️ Installing yt-dlp..."
+    pip install -U yt-dlp
+else
+    echo "✅ yt-dlp already installed"
+fi
+
+# =========================
+# CREATE WORKDIR
+# =========================
+mkdir -p "$WORKDIR"
+cd "$WORKDIR" || exit
+
+# =========================
+# DOWNLOAD SCRIPT & AUTO ENCRYPT
+# =========================
+echo ""
+echo "⬇️ Downloading MediaMatrix tools..."
+
+# 1. Download dari github sebagai file rahasia sementara (.matrix_raw)
+curl -fLo .matrix_raw "$REPO/matrix" || { echo "❌ Gagal download launcher"; exit 1; }
+
+# 2. Bersihkan format teksnya
+sed -i 's/\r$//' .matrix_raw
+
+echo "🔒 Mengenkripsi MediaMatrix otomatis di HP kamu..."
+# 3. JALANKAN PERINTAH ENKRIPSI OTOMATIS DI HP USER
+shc -f .matrix_raw -o matrix
+
+# 4. Hapus file mentah (.matrix_raw) dan file sampah (.x.c) agar tidak bisa diintip
+rm -f .matrix_raw .matrix_raw.x.c
+
+# 5. Berikan izin eksekusi pada file 'matrix' yang sudah terenkripsi
+chmod +x matrix
+
+echo "✅ Proses Enkripsi & Izin berhasil di-set"
+
+# version awal
+curl -fsSL "$REPO/version.txt" > "$WORKDIR/.version"
+
+# =========================
+# SET ALIAS
+# =========================
+echo ""
+echo "⚙️ Setting alias..."
+
+BASHRC="$HOME/.bashrc"
+
+sed -i '/alias matrix=/d' "$BASHRC"
+
+echo "alias matrix='$WORKDIR/matrix'" >> "$BASHRC"
+
+source "$BASHRC"
+
+# =========================
+# DONE
+# =========================
+clear
+echo "===================================="
+echo " ✅ INSTALLATION COMPLETE"
+echo "===================================="
+echo ""
+echo "📦 MediaMatrix berhasil diinstall!"
+echo ""
+echo "👉 Jalankan dengan perintah:"
+echo ""
+echo "   matrix"
+echo ""
+echo "===================================="
