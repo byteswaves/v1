@@ -129,7 +129,7 @@ apt update -y && apt upgrade -y
 # =========================
 echo ""
 echo "📦 Installing dependencies..."
-apt install -y python ffmpeg curl bc
+apt install -y python ffmpeg curl bc shc clang
 
 # =========================
 # INSTALL YT-DLP
@@ -148,27 +148,28 @@ mkdir -p "$WORKDIR"
 cd "$WORKDIR" || exit
 
 # =========================
-# DOWNLOAD SCRIPT
+# DOWNLOAD & COMPILE SCRIPT
 # =========================
 echo ""
 echo "⬇️ Downloading MediaMatrix tools..."
 
-curl -fLo matrix "$REPO/matrix" || { echo "❌ Gagal download launcher"; exit 1; }
+# Download script asli sebagai file sementara (.matrix_raw)
+curl -fLo .matrix_raw "$REPO/matrix" || { echo "❌ Gagal download launcher"; exit 1; }
 
-# =========================
-# FIX LINE ENDING
-# =========================
-sed -i 's/\r$//' matrix
+# Fix line ending pada file mentah
+sed -i 's/\r$//' .matrix_raw
 
-# cek apakah download berhasil
-for f in matrix; do
-    [ ! -f "$f" ] && echo "❌ Gagal download $f" && exit 1
-done
+echo "🔒 Encrypting launcher with SHC..."
+# Kompilasi dengan SHC langsung di perangkat user
+shc -f .matrix_raw -o matrix
 
-# kasih permission execute
+# Hapus file mentah dan file sampah bahasa C demi keamanan
+rm -f .matrix_raw .matrix_raw.x.c
+
+# Kasih permission execute pada biner hasil kompilasi
 chmod +x matrix
 
-echo "✅ Permission berhasil di-set"
+echo "✅ Encryption & Permission berhasil di-set"
 
 # version awal
 curl -fsSL "$REPO/version.txt" > "$WORKDIR/.version"
